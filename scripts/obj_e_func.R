@@ -1,3 +1,7 @@
+# Criação de objeto simples
+
+ano_analise <- (2011:2016)
+
 #Análise de sobrevivência - Evasão entre os ingressantes 2011 nas Universidades Federais
 #Kaplan-Meier
 
