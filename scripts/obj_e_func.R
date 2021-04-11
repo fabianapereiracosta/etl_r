@@ -1,7 +1,7 @@
-#Kaplan-Meier da evasão entre os ingressantes 2011 nas Universidades Federais
+#Análise de sobrevivência - Evasão entre os ingressantes 2011 nas Universidades Federais
+#Kaplan-Meier
 
 require(survival)
-
 
 #Base de dados composta apenas pelos estudantes que declararam cor/raça
 
