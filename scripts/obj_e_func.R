@@ -2,6 +2,8 @@
 
 ano_analise <- (2011:2016)
 
+
+# OBJETO COMPLEXO
 #Análise de sobrevivência - Evasão entre os ingressantes 2011 nas Universidades Federais
 #Kaplan-Meier
 
@@ -17,7 +19,7 @@ Surv(TEMPO,EVASAO)
 plot(Surv)
 str(Surv)
 
-#A função survfit() estima a curva de sobrevivência
+#OBJETO COMPLEXO - A função survfit() estima a curva de sobrevivência
 ekm<-survfit(Surv(KM$TEMPO, KM$EVASAO)~1)
 plot(ekm)
 str(ekm)
