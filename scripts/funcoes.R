@@ -11,13 +11,3 @@ situacao <- function(x){
 }  
 
 situacao (notas)  
-
-
-
-
-
-
-
-
-
-

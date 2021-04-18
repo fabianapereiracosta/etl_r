@@ -1,6 +1,5 @@
 # realizando bootstrapping
 
-
 # bootstraping com função replicate
 
 set.seed(412)

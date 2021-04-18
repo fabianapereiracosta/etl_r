@@ -1,4 +1,3 @@
-
 regioes # data frame contendo sigla, população e IDH das regiões brasileiras
 
 regioes [,'idh'] # identifica os dados da variável IDH

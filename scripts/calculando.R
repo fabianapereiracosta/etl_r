@@ -15,15 +15,3 @@ par(mfrow = c(1, 2))
 
 hist(sepala_comp_central) #histograma da variável centralizada
 hist(sepala_comp) # histograma da variável original
-
-
-
-
-
-
-
-
-
-
-
-

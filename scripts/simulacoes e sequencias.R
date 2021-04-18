@@ -1,4 +1,5 @@
 # simulações e repetições
+
 # geração aleatória de dados
 
 
