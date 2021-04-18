@@ -1,6 +1,7 @@
 install.packages('eeptools')
 library('eeptools')
 
+
 # vetor com as siglas das regiões brasileiras
 
 regiao <- c("NO", "NE", "S", "SE", "CO")

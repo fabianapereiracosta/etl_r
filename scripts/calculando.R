@@ -1,4 +1,5 @@
 iris # Íris- base de dados nativa do R
+
 str(iris)
 
 hist(iris$Sepal.Length) # histograma da variável Sepal.Length

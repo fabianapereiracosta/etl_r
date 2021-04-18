@@ -2,6 +2,7 @@
 
 # bootstraping com função replicate
 
+
 set.seed(412)
 
 dist_normal <- rnorm(1000) # distribuição normal com 1000 casos

@@ -2,7 +2,6 @@
 
 # retornando estatísticas do banco de dados
 
-
 apply(iris[ ,-5], 2, max)
 apply(iris[ ,-5], 2, min)
 apply(iris[ ,-5], 2, var)
